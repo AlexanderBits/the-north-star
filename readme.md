@@ -23,9 +23,7 @@ We went back to the basics. We asked ourselves the fundamental questions until w
 
 **Q:** Will you be releasing PTMagic settings?
 
-**A:** To be clear, the presence of PTMagic does not mean you will make more money. The results are only as good as the settings and at this time we've been able to accomplish our initial goal with ProfitTrailer 2. 
-
-Our intent is to continue to improve this specific setting to increase profit and curtail risk. We feel if we can do this one thing extremely well, then it's going to represent a large majority of the overall solution. Saying the PT settings aren't good because there aren't any PTM settings is like saying a dining room table is crap because there isn't a napkin holder on it. This is not to say that PTM isn't a great tool, but it's not a necessity and we're trying to keep things managable and profitable. Eventually, we would like to get extremely good at trading other trends. So the vision is that one day we'll have The North Star as a Single Market Setting in PTMagic, alongside other refined settings.
+**A:** Yup. Soon!
 
 **Q:** Wthout PTMagic, how can you protect against pumps?
 
