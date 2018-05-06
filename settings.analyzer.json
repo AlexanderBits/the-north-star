@@ -15,7 +15,7 @@
   "AnalyzerSettings": {
     "MarketAnalyzer": {
       "StoreDataMaxHours": 24,
-      "IntervalMinutes": 1,
+      "IntervalMinutes": 5,
       "ExcludeMainCurrency": false,
       "MarketTrends": [
         {
