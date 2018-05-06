@@ -9,7 +9,7 @@
 * Tested With:    ProfitTrailer 2.0.1 / PTMagic 1.6.1                      *
 * URL:            www.thenorthstarsettings.com                             *
 * File:           PTM settings.analyzer.json                               *
-* Last Update:    v2.0.0 - 05 MAY 2018                                     *
+* Last Update:    v2.0.0 - 06 MAY 2018                                     *
 ************************************************************************* */
 {
   "AnalyzerSettings": {
@@ -296,8 +296,8 @@
           "trailing_profit": 0.83
         },
         "DCAProperties": {
-          "A_sell_value": 1.83,
-          "trailing_profit": 0.50
+          "DCA_A_sell_value": 1.83,
+          "DCA_trailing_profit": 0.50
         }
       },
       {
@@ -327,8 +327,8 @@
           "trailing_profit": 0.50
         },
         "DCAProperties": {
-          "A_sell_value": 1.33,
-          "trailing_profit": 0.41 	
+          "DCA_A_sell_value": 1.33,
+          "DCA_trailing_profit": 0.41 	
 	}
       }
     ]
