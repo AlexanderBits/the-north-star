@@ -320,11 +320,10 @@
           "A_sell_value": 1.50,
           "trailing_profit": 0.50
         },
-        "DCAProperties": {},
-        "IndicatorsProperties": {
+        "DCAProperties": {
           "A_sell_value": 1.33,
-          "trailing_profit": 0.41      
-        }
+          "trailing_profit": 0.41 	
+	}
       }
     ]
   }
