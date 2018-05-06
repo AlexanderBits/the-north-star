@@ -254,6 +254,12 @@
 		  "DEFAULT_E_buy_value": 30.00,
 		  "DEFAULT_E_buy_value_limit": 5.00,
 		  "DEFAULT_trailing_buy": 0.38
+        },
+        "DCAProperties": {
+          "File": "DCA.properties"
+        },
+        "IndicatorsProperties": {
+          "File": "INDICATORS.properties"
         }
       }
     ],
