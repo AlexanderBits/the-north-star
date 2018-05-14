@@ -3,6 +3,6 @@ These are ProfitTrailer and [PTMagic](http://www.profit-trailer-magic.com) setti
 
 The settings bring clarity and focus. In a sea of opinions, clichés, and lackluster settings, we welcome you to The North Star.
 
-Visit the [Wiki](https://github.com/stevenshizzleh/the-north-star/wiki) for Configuration Instructions, the FAQ, and more.
+You **MUST** provide some initial configuration changes. These settings will not work "out of the box". Visit the [Wiki](https://github.com/stevenshizzleh/the-north-star/wiki) for Configuration Instructions, the FAQ, and more.
 
 Come to our [Discord](https://discord.gg/34bxedy) to engage the community -- a lot of smart people out there :) 
