@@ -8,4 +8,4 @@ You **MUST** provide some initial configuration changes. These settings will not
 Come to our [Discord](https://discord.gg/34bxedy) to engage the community -- a lot of smart people out there :) 
 
 ![Settings Framework](https://i.imgur.com/8VScZ1a.png)
-![Sales Log Example](https://i.imgur.com/zA5wZNp.png)
+![Sales Log Example](https://i.imgur.com/ria4Jc8.png)
