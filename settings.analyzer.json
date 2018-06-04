@@ -9,7 +9,7 @@
 * Tested With:    ProfitTrailer 2.0.9 / PTMagic 2.0.1                      *
 * URL:            www.thenorthstarsettings.com                             *
 * File:           PTM settings.analyzer.json                               *
-* Last Update:    v3.0.0 - 2 JUN 2018                                      *
+* Last Update:    v3.0.0 HF 1 - 4 JUN 2018                                   *
 ************************************************************************* */
 
 /* ********* Change only via text editor -- NOT via PTMagic GUI ********* */
@@ -477,11 +477,6 @@
         "StopProcessWhenTriggered": false,
         "Triggers": [
           {
-            "MarketTrendName": "Exchange11h",
-            "MarketTrendRelation": "Absolute",
-            "MinChange": 5.00
-          },
-		  {
             "MarketTrendName": "Exchange3d",
             "MarketTrendRelation": "Absolute",
             "MinChange": 8.00
@@ -667,11 +662,11 @@
         "OffTriggers": [
           {
             "MarketTrendName": "Exchange1h",
-            "MaxChange": 5.00
+            "MinChange": 5.00
           },
           {
             "MarketTrendName": "Exchange2h",
-            "MaxChange": 5.00
+            "MinChange": 5.00
           },
           {
               "HoursSinceTriggered": 8
