@@ -24,7 +24,7 @@
         {
           "Name": "MainCurrency15m",
           "Platform": "CoinMarketCap",
-          "AllowedMarkets": "ETH",
+          "AllowedMarkets": "BTC",
           "MaxMarkets": 1,
           "TrendMinutes": 15,
           "DisplayOnMarketAnalyzerList": false,
@@ -33,7 +33,7 @@
         {
           "Name": "MainCurrency3h",
           "Platform": "CoinMarketCap",
-          "AllowedMarkets": "ETH",
+          "AllowedMarkets": "BTC",
           "MaxMarkets": 1,
           "TrendMinutes": 180,
           "DisplayOnMarketAnalyzerList": false,
@@ -42,7 +42,7 @@
         {
           "Name": "MainCurrency24h",
           "Platform": "CoinMarketCap",
-          "AllowedMarkets": "ETH",
+          "AllowedMarkets": "BTC",
           "MaxMarkets": 1,
           "TrendMinutes": 1440
         },
